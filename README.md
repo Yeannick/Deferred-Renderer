@@ -1,6 +1,8 @@
 # Deferred-Renderer
 Overlord Engine from a course Graphics Programming 2 with deferred rendering added
-[<img src="/Deferred-Renderer/Deferred.png"]
+
+<img src="https://github.com/Yeannick/Deferred-Renderer/blob/main/Deffered.png">
+
 Contains :
 
 # Render Techniques
